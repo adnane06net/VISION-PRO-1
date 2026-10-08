@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "ads_enabled": true,
+  "click_interval": 3,
+  "time_interval": 5,
+  "placements": {
+    "banner": "admob",
+    "native": "admob",
+    "interstitial": "admob",
+    "rewarded": "admob",
+    "app_open": "admob"
+  },
+  "networks": {
+    "admob": {
+      "enabled": true,
+      "config": {
+        "banner_id": "ca-app-pub-3394099792135095/5967360707",
+        "native_id": "ca-app-pub-3394099792135095/7356653946",
+        "interstitial_id": "ca-app-pub-3394099792135095/8885358032",
+        "rewarded_id": "ca-app-pub-3394099792135095/8273890037",
+        "app_open_id": "ca-app-pub-3394099792135095/4654279034"
+      }
+    }
+  },
+  "custom_ads": []
+}
