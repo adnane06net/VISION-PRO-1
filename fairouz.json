@@ -14,11 +14,11 @@
     "admob": {
       "enabled": true,
       "config": {
-        "banner_id": "ca-app-pub-3394099792135095/5967360707",
-        "native_id": "ca-app-pub-3394099792135095/7356653946",
-        "interstitial_id": "ca-app-pub-3394099792135095/8885358032",
-        "rewarded_id": "ca-app-pub-3394099792135095/8273890037",
-        "app_open_id": "ca-app-pub-3394099792135095/4654279034"
+        "banner_id": "ca-app-pub-3394099792135095/7504781969",
+        "native_id": "ca-app-pub-3394099792135095/6187238622",
+        "interstitial_id": "ca-app-pub-3394099792135095/6012315512",
+        "rewarded_id": "ca-app-pub-3394099792135095/4597663004",
+        "app_open_id": "ca-app-pub-3394099792135095/5099033916"
       }
     }
   },
